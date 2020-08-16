@@ -7,7 +7,7 @@
 
 # Description
 
-findsources.co.uk is a website that serves as a search engine for books.
+[findsources.co.uk](https://www.findsources.co.uk) is a website that serves as a search engine for books.
 
 Users can register as authors and create their own references for any book they might have found interesting.
 
